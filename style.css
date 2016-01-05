@@ -1,0 +1,89 @@
+.navbar {
+  position: relative;
+  border-bottom: black 1px solid;
+  background-color: blue;
+  height: 100px;
+  color: white;
+}
+.navform {
+  float: right;
+}
+#logo {
+  position: absolute;
+  bottom: -10%;
+  left: 6%;
+  font-size: 50px;
+}
+#rightnavform {
+  position: absolute;
+  right: 1%;
+  top: 25%;
+}
+#leftnavform {
+  position: absolute;
+  right: 30%;
+  top: 10%;
+}
+#centernavform {
+  position: absolute;
+  right: 10%;
+  top: 10%;
+}
+
+.container {
+  position: relative;
+  height: 450px;
+  background-color: #CEFCFC;
+}
+.form {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 50%;
+  line-height: 30px;
+}
+.resizedboxsmall {
+    width: 200px;
+    height: 20px;
+}
+.resizedboxlarge {
+  width: 408px;
+  height: 20px;
+}
+#gratuit {
+  font-size: 18px;
+  line-height: 18px;
+}
+#conditions {
+  font-size: 10px;
+  line-height: 15px;
+}
+#smallshit {
+  border-top: 1px grey solid;
+  font-size: 15px;
+}
+#whybirth {
+  font-size: 10px;
+}
+.connect {
+  left: 0;
+  top: 0;
+  width: 45%;
+  padding-left: 2%;
+}
+h2 {
+  margin: none;
+}
+#shema {
+  width: 100%;
+}
+.footer {
+  margin-top: 10px;
+  bottom: 0;
+  background-color: white;
+}
+.footer li {
+  padding-right: 5px;
+  display: inline;
+  list-style-type: none;
+}
